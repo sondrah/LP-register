@@ -1,5 +1,5 @@
 # LP-register
-Localhosted web application with overview of all your LPs. Christmas present for my parents, christmas 2016
+Localhosted web application with overview of all your LPs. Christmas present for my parents, christmas 2016. Written in PHP and HTML.
 
 ## Requirments & Set Up
 You need XAMPP installed.
