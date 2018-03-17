@@ -1,11 +1,11 @@
 # LP-register
 Localhosted web application with overview of all your LPs. Christmas present for my parents, christmas 2016
 
-##Requirments & Set Up
+## Requirments & Set Up
 You need XAMPP installed.
 Place all these files in the 'htdocs' folder.
 
-##Functonality
+## Functonality
 - Add album(with name of album, artist, year, songs and optionally a comment)
 - Search:
   - Song
@@ -15,7 +15,7 @@ Place all these files in the 'htdocs' folder.
 - List all albums
 - Delete an album
 
-##Database structure
+## Database structure
 This web application uses XML to save all albums.
 XML-format:
   <LPdb>
