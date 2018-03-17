@@ -17,12 +17,4 @@ Place all files in this repository in the 'htdocs' folder.
 
 ## Database structure
 This web application uses XML to save all albums.
-XML-format:
-  <LPdb>
-      <LP>
-          <title>
-          <creator>
-          <date>
-          <comment>
-          <disc>
-              <track>
+See an example of the structure in 'databasen.xml'
