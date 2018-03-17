@@ -1,8 +1,12 @@
 <?xml version="1.0" standalone="yes"?>
 <LPdb>
-		
-		
-
-	
-	
-<LP><title>t2</title><creator>wagag</creator><date>2020</date><comment/><disc><track>agagag</track></disc></LP></LPdb>
+    <LP>
+	<title>The Wall</title>
+	<creator>Pink Floyd</creator>
+	<date>1979</date>
+	<comment>Cover is just one white brick wall</comment>
+	<disc>
+	    <track>In the flesh?</track>
+	</disc>
+    <LP>
+<LPdb>
